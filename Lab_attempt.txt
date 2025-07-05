@@ -1,0 +1,12 @@
+Hi Scholars,
+
+Kindly indicate below if you were able to attempt a lab task.
+Input your name and type a yes or no after two tabs.
+
+See header below.
+
+    Name            Attempted
+-----------------------------
+
+
+
